@@ -347,7 +347,7 @@ body {
 
 
 .myH2 {
-    padding-top: 4%;
+    padding-top: 6%;
 	text-align:center;
 	font-size: 4rem;
 }
@@ -363,4 +363,9 @@ body {
 }
 html{
     scroll-behavior: smooth;
+}
+img{
+	width: 100%;
+	padding: 0;
+	margin: 0;
 }
