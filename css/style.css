@@ -371,6 +371,7 @@ img{
 	margin: 0;
 }
 .tempclosed{
+	text-align: center;
 	background-color: red;
 	color: black;
 }
