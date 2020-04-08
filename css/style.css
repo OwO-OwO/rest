@@ -10,9 +10,7 @@ body {
 }
 /*-- Inspiration taken from abdo steif -->
 /* --> https://codepen.io/abdosteif/pen/bRoyMb?editors=1100*/
-.temp{
-	background-color: red;
-}
+
 
 /* Navbar section */
 
@@ -371,6 +369,10 @@ img{
 	width: 100%;
 	padding: 0;
 	margin: 0;
+}
+.temp{
+	background-color: red;
+	color: black;
 }
 
 
